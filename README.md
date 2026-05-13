@@ -1,20 +1,22 @@
-<h1 align="center"> Hey there I'm <a href="https://ds6music.com">Dimitri</a> 👋 <img height="40" alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> </h1>
+<h1 align="center">Hey there I'm <a href="https://ds6music.com">Dimitri</a> 👋 <img height="40" alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Backend+Developer+%26+Systems+Architect;I+build+scalable+bot+automation+platforms;Media+streaming+%26+real-time+dashboards;Always+learning%2C+always+building+🚀" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Backend+Developer+%26+Systems+Architect;Building+scalable+bot+automation+platforms;Media+streaming+%26+real-time+dashboards;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dimitrilinds&label=Profile%20views&color=A855F7&style=flat" alt="dimitrilinds" /> 
-  <img src="https://img.shields.io/github/followers/dimitrilinds?style=social" />
-  <img src="https://img.shields.io/github/stars/dimitrilinds?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=dimitrilinds&label=Profile%20views&color=A855F7&style=flat" alt="dimitrilinds" />
+  &nbsp;
+  <a href="https://github.com/dimitrilinds?tab=followers"><img src="https://img.shields.io/github/followers/dimitrilinds?label=Followers&style=social" alt="Followers"/></a>
+  &nbsp;
+  <a href="https://github.com/dimitrilinds?tab=stars"><img src="https://img.shields.io/github/stars/dimitrilinds?label=Stars&style=social" alt="Stars"/></a>
 </p>
 
 ---
 
-<h2> <img width="25" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzNtcnJtaTFjMW5qeWhzc3c1d3Q0bDAyOGo3a3dhbmtmcGd2Ym5kOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eP3jvb1trh4CNuNjEX/giphy.gif"> My Github Profile </h2>
+<h2><img width="25" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzNtcnJtaTFjMW5qeWhzc3c1d3Q0bDAyOGo3a3dhbmtmcGd2Ym5kOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eP3jvb1trh4CNuNjEX/giphy.gif"> My Github Profile</h2>
 
-<img src="https://raw.githubusercontent.com/dimitrilinds/dimitrilinds/main/banner.png" min-width="300px" max-width="300px" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/dimitrilinds/dimitrilinds/main/banner.png" width="340px" align="right" style="margin-left:20px; border-radius:12px;">
 
 - 🔭 **I'm currently working on scalable bot automation & media streaming platforms**
 
@@ -26,15 +28,15 @@
 
 - 💬 **Ask me about Node.js, bots, streaming & system architecture**
 
-- 📫 **How to reach me [Instagram @DaddySueco.vu](https://instagram.com/DaddySueco.vu)**
+- 📫 **How to reach me: [Instagram @DaddySueco.vu](https://instagram.com/DaddySueco.vu)**
 
-- ⚡ **Fun fact I usually code late at night with music on 🎵**
+- ⚡ **Fun fact: I usually code late at night with music on 🎵**
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bG1iamFyNGs5MWw4anA4ZTM1NnhidnQ0MTA3b2k4NmgzbndqNmtrYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pK71N5q77RlcD4CJPB/giphy.gif" width ="25"><b> Socials</b>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bG1iamFyNGs5MWw4anA4ZTM1NnhidnQ0MTA3b2k4NmgzbndqNmtrYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pK71N5q77RlcD4CJPB/giphy.gif" width="25"> <b>Socials</b></h2>
 
 > Why it all works? Because you take action.
 
@@ -46,12 +48,12 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tech Stack</b></h2>
 
->[!IMPORTANT]
+> [!IMPORTANT]
 > This is the tech stacks and tools I use for programming.
 
-<div align="center">  
+<div align="center">
 <table>
 <tr>
 
@@ -136,13 +138,13 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b></h2>
 
 <table width="100%" align="center">
 <tr>
 <td align="center">
-  <img width="600em" 
-       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimitrilinds&theme=dracula" 
+  <img width="600em"
+       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimitrilinds&theme=dracula"
        alt="Profile Summary">
 </td>
 </tr>
@@ -152,14 +154,15 @@
 <tr>
 
 <td align="center">
-  <img width="400em" 
-       src="https://github-readme-stats.vercel.app/api?username=dimitrilinds&theme=dracula&bg_color=000000&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" 
+  <img width="400em"
+       src="https://github-readme-stats.vercel.app/api?username=dimitrilinds&theme=dracula&bg_color=000000&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"
        alt="GitHub Stats"/>
 </td>
 
 <td align="center">
-  <img width="420em" 
-       src="https://streak-stats.demolab.com?user=dimitrilinds&theme=dracula&mode=weekly&background=000000" alt="GitHub Streak" />
+  <img width="420em"
+       src="https://streak-stats.demolab.com?user=dimitrilinds&theme=dracula&mode=weekly&background=000000"
+       alt="GitHub Streak" />
 </td>
 
 </tr>
@@ -167,7 +170,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG84NnhldmJkZGxreHF6ZHR5cmF1ZW5sdHVkN3J1cmVleGp1bmphMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QDgluYEWrWSpu6f8H7/giphy.gif" width ="35"><b> 3D Contributions</b>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG84NnhldmJkZGxreHF6ZHR5cmF1ZW5sdHVkN3J1cmVleGp1bmphMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QDgluYEWrWSpu6f8H7/giphy.gif" width="35"> <b>3D Contributions</b></h2>
 
 <img src="https://github.com/dimitrilinds/dimitrilinds/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 
