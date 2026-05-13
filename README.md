@@ -155,7 +155,7 @@
 
 <td align="center">
   <img width="400em"
-       src="https://github-readme-stats.vercel.app/api?username=dimitrilinds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
+       src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimitrilinds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
        alt="GitHub Stats"/>
 </td>
 
